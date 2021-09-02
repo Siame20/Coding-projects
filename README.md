@@ -1,2 +1,2 @@
-# Coding-projects
+# C++ programming
 Beginner's level
